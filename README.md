@@ -26,3 +26,10 @@
 -----
 
 [Click here](tex2.txt)
+
+#### To use checklist
+
+-[X] aws
+-[X] gcp
+-[X] azure
+
