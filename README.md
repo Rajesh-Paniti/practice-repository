@@ -24,3 +24,5 @@
 *Horizontal Line*
 
 -----
+
+[Click here](tex2.txt)
