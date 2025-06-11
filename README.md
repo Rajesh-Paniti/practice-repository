@@ -1,1 +1,19 @@
 # practice-repository
+
+## Cloud Devops internship
+
+### ordered list
+1. ok
+2.  not ok
+3.  wrong
+
+#### unordered list
+- ok
++ not ok
+- wrong
+
+*Italic font*
+
+**Bold font**
+
+***Bold-italic***
