@@ -18,6 +18,9 @@
 
 ***Bold-italic***
 
+### Footnotes
+#### Grateful:[^1]
+[^1]:thankful
 
 > Black quote
 
