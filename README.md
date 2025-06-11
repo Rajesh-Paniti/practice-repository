@@ -17,3 +17,10 @@
 **Bold font**
 
 ***Bold-italic***
+
+
+> Black quote
+
+*Horizontal Line*
+
+-----
